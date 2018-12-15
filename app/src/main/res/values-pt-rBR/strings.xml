@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Camilo Adesivos</string>
+    <string name="tray_image_content_description">Pacote de adesivos imagens</string>
+    <string name="more_info_button">Mais informações sobre pacotes de adesivos</string>
+    <string name="add_to_whatsapp">Adicionar ao WhatsApp</string>
+    <string name="add_button_content_description">Adicionar pacote de adesivos ao WhatsApp</string>
+    <string name="title_activity_sticker_packs_list">Pacote de Adesivos</string>
+    <string name="title_activity_sticker_pack_details_single_pack">Pacote de Adesivo</string>
+    <string name="title_activity_sticker_pack_details_multiple_pack">Detalhe dos Adesivos</string>
+    <string name="title_activity_sticker_pack_info">Informações</string>
+    <string name="error_adding_sticker_pack">Não foi possível adicionar o pacote de adesivos. Por favor instale a últiva versão do WhatsApp antes de adicionar o pacote de adesivo</string>
+    <string name="details_pack_already_added">Pacote de adesivos adicionar ao WhatsApp</string>
+    <string name="add_pack_fail_prompt_update_whatsapp">Pacote de adesivos não foi adicionado. Cao você queira adiciona-lo, tenha certeza que você atualizou a versão do WhatsApp.</string>
+    <string name="add_pack_fail_prompt_update_play_link">Atualizar</string>
+    <string name="cannot_find_play_store">Google Play não está instalado.</string>
+    <string name="send_email">Enviar e-mail</string>
+    <string name="view_webpage">Ver Site</string>
+    <string name="privacy_policy">Política de privacidade.</string>
+</resources>
